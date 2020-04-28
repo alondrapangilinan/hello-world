@@ -2,4 +2,4 @@
 
 Hi there
 
-I'm Alondra, and I was told to write some thing here and make my first commit.
+I'm Alondra, and I'm making my first commit while listening to Ariana Grande.
